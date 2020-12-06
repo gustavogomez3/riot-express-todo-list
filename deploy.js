@@ -1,5 +1,5 @@
 var cmd = require('node-cmd');
-var path, node_ssh, ssh, fs;
+var path, NodeSSH, ssh, fs;
 fs = require('fs');
 path = require('path');
 const {NodeSSH} = require('node-ssh');
